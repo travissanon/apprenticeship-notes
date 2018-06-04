@@ -25,7 +25,7 @@ Part 3 > Grid: Creating a grid layout for the event card(s) using [flexbox](http
 
 Part 4 > Sass: Replacing our CSS with Sass.
 
-Part 5 > BEM: Incorporating BEM to any HTML and CSS that have been written.
+Part 5 > BEM: Incorporating BEM to any HTML and CSS that has been written.
 
 
 [Sparkeats 2.0](https://eats.seesparkbox.com/) - Our *third* and final Apprentice poject. The task is to create a backend for the [previous Apprentice project](http://apprentices.seesparkbox.com/), Sparkeats, with the MVC framework [Sails.js](https://sailsjs.com/). *(in progress)*
