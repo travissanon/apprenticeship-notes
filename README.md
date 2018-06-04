@@ -11,7 +11,7 @@ Responsive Web Design
 [Exercism](http://exercism.io/)
 
 # Projects 🚧
-**[Ruby Hotdog Stand](https://github.com/corinneling/apprentice-hot-dog-stand) - This is our *first* Apprentice project. The task is to write a program which presents a questionnaire to the user asking them the particulars of a hot dog order.
+[Ruby Hotdog Stand](https://github.com/corinneling/apprentice-hot-dog-stand) - This is our *first* Apprentice project. The task is to write a program which presents a questionnaire to the user asking them the particulars of a hot dog order inside the terminal.
 
 [Ruby Tron Game](https://github.com/travissanon/ruby-tron-game) - A clone of the [classic Tron game](https://en.wikipedia.org/wiki/Tron_(video_game)). This is a project that I decided to take on to further deepen my understanding of Ruby. I learned quite a bit about the internals of Ruby while tackling this project.
 
@@ -30,7 +30,7 @@ Part 5 > BEM: Incorporating BEM to any HTML and CSS that have been written.
 
 [Sparkeats 2.0](https://eats.seesparkbox.com/) - Our *third* and final Apprentice poject. The task is to create a backend for the [previous Apprentice project](http://apprentices.seesparkbox.com/), Sparkeats, with the MVC framework [Sails.js](https://sailsjs.com/). *(in progress)*
 
-[Personal Website](https://travissanon.com) - This is a personal project for myself. Im creating personal website, and I also decided to document the whole process of creating it. 
+[Personal Website](https://travissanon.com) - This is a personal project for myself. Im creating personal website, and also decided to document my entire creation process. 
 *(in progress)*
 
 <!-- # Cheatsheets 🙈
@@ -71,7 +71,7 @@ These two mini-games are great for not only learning flexbox and css grid, but a
 [HTTP: The Protocol Every Developer Must Know](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
 
 ## Phase 3 - MVC Frameworks and Databases
-[Build a Sails.js App (Youtube - Traversy Media)](https://www.youtube.com/watch?v=AmjiDC_JUt4&list=PLillGF-RfqbZIA-9sI3T1uu7d7_CtbwPm) - Finding this video series was a godsend after being introduced to my final project. I couldnt find many up-to-date tutorials on Sails.js until I found this. There were some walls I had to get though due to various updates Sails have made over the months, but helped tremendously overall. It helped me understand the MVC architectural pattern as well as the CRUD paradigm.
+[Build a Sails.js App (Youtube - Traversy Media)](https://www.youtube.com/watch?v=AmjiDC_JUt4&list=PLillGF-RfqbZIA-9sI3T1uu7d7_CtbwPm) - Finding this video series was a godsend after being introduced to my final project. I couldnt find many up-to-date tutorials on Sails.js until I found this. There were some walls I had to get though due to various updates Sails have made over the months, but was a tremendous aid overall. It helped me understand the MVC architectural pattern as well as the CRUD paradigm.
 
 [Model View Controller (Article - wiki.c2)](http://wiki.c2.com/?ModelViewController) - This helped me gain a slight understanding of what exactly Model View Controller means.
 
