@@ -62,7 +62,7 @@ Terminal -->
 [Sass tutorials (Youtube - thenetninja)](https://www.youtube.com/watch?v=St5B7hnMLjg&list=PL4cUxeGkcC9iEwigam3gTjU_7IA3W2WZA) - A great in depth-tutorial on the various features Sass has to offer. Variables, mixins, math operators, this video series has most of what im looking for. 
 
 [Flexbox Froggy](https://flexboxfroggy.com/) / [CSS Garden](https://cssgridgarden.com/) - 
-These two mini-games are great for not only learning flexbox and css grid, but applying what both technologies have to offer on elements to understand *what* certain properties/property combinations do and *how* its done.
+These two mini-games are great for not only learning flexbox and css grid, but applying what both layouts have to offer. It's nice to see what happens when certain properties/property combinations are applied to elements.
 
 [Flexbox Guide (CSS Tricks)](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) - I read through this guide whenever I get stuck with a flexbox related problem. It's very detailed and has almost everything I need to know about flexbox.
 
